@@ -1,0 +1,29 @@
+.body {
+    background: #000004;
+    color: #fff;
+    font-family: 'Quicksand', sans-serif;
+    /* width: 80%; */
+    /* padding-left: 30px; */
+    min-height: 100vh;
+    padding: 20px;
+}
+
+.xplur {
+    display: flex;
+}
+
+
+h4 {
+    margin: 40px;
+    font-size: 30px;
+}
+
+.button {
+    background-color: #7b61ff;
+    border: none;
+    color: #fff;
+    padding: 15px 150px;
+    text-align: center;
+    /* display: inline-block;
+    text-decoration: none; */
+}
